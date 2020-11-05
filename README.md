@@ -1,3 +1,3 @@
 # DBC-Driving-Behavioral-Cloning
 
-Prepared paper: Driving Behacioral Cloning for Automous Vehicle Using Transfer Imitation Learning
+Prepared paper: Driving Behavioral Cloning for Autonomous Vehicle Using Transfer Imitation Learning
