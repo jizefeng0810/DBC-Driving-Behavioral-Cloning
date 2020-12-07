@@ -2,4 +2,4 @@
 
 Prepared paper: Driving Behavioral Cloning for Autonomous Vehicle Using Task Distillation
 
-## Simulation：Carla
+## Simulation：Carla 0.9.9.2
