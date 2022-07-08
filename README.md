@@ -12,4 +12,4 @@ Download [link](https://github.com/carla-simulator/carla)
 ## Results
 The result is as follows:
 <div align=center><img src="img/example-res.jpg"></div>
-The video demonstrations of all the above experiments can be found at [link](https://youtu.be/IPHR-7awYk0.)
+The video demonstrations of all the above experiments can be found at [link](https://youtu.be/IPHR-7awYk0)
