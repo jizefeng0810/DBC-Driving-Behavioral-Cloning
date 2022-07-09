@@ -1,6 +1,6 @@
 # DBC-Driving-Behavioral-Cloning
 
-Prepared paper: Driving Behavioral Cloning for Autonomous Vehicle Using Task Distillation
+Prepared paper: Driver Behavioral Cloning for Route Following in Autonomous Vehicles Using Task Knowledge Distillation
 
 ## Approach
 Planning appropriate driving trajectory for route following is an important function for autonomous driving. Behavioral cloning, which allows automatic trajectory learning and improvement, has been effectively used in driving trajectory planning. However, existing behavioral cloning methods always rely on large scales of time-consuming, laborious, and reliable labels. To address this problem, this paper proposes a new off-policy imitation learning method for autonomous driving using task knowledge distillation. This novel method clones
@@ -8,6 +8,8 @@ human driving behavior and effectively transfers the driving strategies to domai
 <div align=center><img src="img/framework.jpg"></div>
 
 ## How to use code
+### Simulator：Carla 0.9.9.2
+Download [link](https://github.com/carla-simulator/carla)
 ### Datasets
 You can download dataset from: [BaiduPan](waiting)
 ### Training
@@ -27,8 +29,6 @@ Below script gives you an example of testing EVS/RMSE/MAE.
 python eval_metric.py --dataset_dir PATH:/CarlaDatasets/Route0_Noon --source eval --model_path ./wandb/stage2_output_model.t7
 ```
 
-## Simulator：Carla 0.9.9.2
-Download [link](https://github.com/carla-simulator/carla)
 
 ## Results
 The result is as follows:
