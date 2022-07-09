@@ -12,7 +12,7 @@ human driving behavior and effectively transfers the driving strategies to domai
 Download [link](https://github.com/carla-simulator/carla)
 ### Datasets
 You can download dataset from: [BaiduPan](https://pan.baidu.com/s/18w2rpbj-4knxwaefO7c-8w?pwd=0810). password：0810 
---来自百度网盘超级会员V6的分享
+
 ### Training
 #### Stage 1
 Below script gives you an example of training a teacher model.
